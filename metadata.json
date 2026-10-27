@@ -1,6 +1,6 @@
 {
-  "name": "Job Portal",
-  "description": "Connecting top talent and growing companies through streamlined job discovery, resume workflows, candidate pipelines, and recruiter dashboards.",
+  "name": "MarketHub",
+  "description": "A scalable multi-vendor marketplace connecting customers, independent sellers, delivery partners, and administrators with unified split-checkout, inventory management, and live order tracking.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
