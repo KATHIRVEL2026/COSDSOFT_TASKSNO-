@@ -1,6 +1,6 @@
 {
-  "name": "MarketHub",
-  "description": "A scalable multi-vendor marketplace connecting customers, independent sellers, delivery partners, and administrators with unified split-checkout, inventory management, and live order tracking.",
+  "name": "FleetFlow",
+  "description": "Real-time logistics management platform for shipments, drivers, vehicles, routes, warehouses, and deliveries with live telemetry and mobile driver dispatch.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
