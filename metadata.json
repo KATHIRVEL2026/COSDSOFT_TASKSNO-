@@ -1,6 +1,8 @@
 {
-  "name": "DineDesk - Restaurant Ordering & Kitchen Platform",
-  "description": "Complete restaurant ordering, table reservation, and kitchen operations management platform.",
+  "name": "Job Portal",
+  "description": "Connecting top talent and growing companies through streamlined job discovery, resume workflows, candidate pipelines, and recruiter dashboards.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
